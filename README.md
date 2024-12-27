@@ -1,4 +1,4 @@
-# krakend-gw-sample
+# krakend-Go-Custom-Plugin-sample
 
 This is a sample krakend api gateway plugin to extend the features with flexible configuration.
 
